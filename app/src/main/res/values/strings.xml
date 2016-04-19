@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloSandra</string>
+    <string name="greeting">Hello Sandra</string>
+    <string name="option1">Blue</string>
+    <string name="option2">Green</string>
+    <string name="option3">Yellow</string>
+    <string name="option4">Red</string>
+</resources>
